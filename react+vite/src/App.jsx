@@ -9,13 +9,15 @@ export default function App() {
     <div className={styles.card}>
     <Card title="hello world"  surname="sisodia"/>
     <Card title="Ansh" surname="sisodia"/>
-    <Card title="Aryan" surname="Sharma"/>
+   
 
       <Card title="hello world"  surname="sisodia"/>
     <Card title="Ansh" surname="sisodia"/>
-    <Card title="Aryan" surname="Sharma"/>
+   
 
 <h1>Changinbg in master to check</h1>
+
+  <Card title="Anshul" surname="sisodia"/>
 
     </div>
 
