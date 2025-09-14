@@ -9,12 +9,8 @@ export default function App() {
     <div className={styles.card}>
     <Card title="hello world"  surname="sisodia"/>
     <Card title="Ansh" surname="sisodia"/>
-    <Card title="Aryan" surname="Sharma"/>
-
-      <Card title="hello world"  surname="sisodia"/>
-    <Card title="Ansh" surname="sisodia"/>
-    <Card title="Aryan" surname="Sharma"/>
-
+  <Card title="Anshul" surname="sisodia"/>
+  <Card title="Aryan" surname="sharma"/>
     </div>
   )
 }
